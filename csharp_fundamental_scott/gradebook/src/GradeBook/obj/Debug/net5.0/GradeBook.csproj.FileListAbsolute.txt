@@ -1,0 +1,15 @@
+/Users/jaehylee/Documents/csharp_developement/csharp_fundamental_scott/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.deps.json
+/Users/jaehylee/Documents/csharp_developement/csharp_fundamental_scott/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.json
+/Users/jaehylee/Documents/csharp_developement/csharp_fundamental_scott/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.dev.json
+/Users/jaehylee/Documents/csharp_developement/csharp_fundamental_scott/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.dll
+/Users/jaehylee/Documents/csharp_developement/csharp_fundamental_scott/gradebook/src/GradeBook/bin/Debug/net5.0/ref/GradeBook.dll
+/Users/jaehylee/Documents/csharp_developement/csharp_fundamental_scott/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.pdb
+/Users/jaehylee/Documents/csharp_developement/csharp_fundamental_scott/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csprojAssemblyReference.cache
+/Users/jaehylee/Documents/csharp_developement/csharp_fundamental_scott/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaehylee/Documents/csharp_developement/csharp_fundamental_scott/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfoInputs.cache
+/Users/jaehylee/Documents/csharp_developement/csharp_fundamental_scott/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfo.cs
+/Users/jaehylee/Documents/csharp_developement/csharp_fundamental_scott/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csproj.CoreCompileInputs.cache
+/Users/jaehylee/Documents/csharp_developement/csharp_fundamental_scott/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.dll
+/Users/jaehylee/Documents/csharp_developement/csharp_fundamental_scott/gradebook/src/GradeBook/obj/Debug/net5.0/ref/GradeBook.dll
+/Users/jaehylee/Documents/csharp_developement/csharp_fundamental_scott/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.pdb
+/Users/jaehylee/Documents/csharp_developement/csharp_fundamental_scott/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.genruntimeconfig.cache
